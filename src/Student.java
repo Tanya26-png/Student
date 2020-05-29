@@ -6,7 +6,7 @@
 
 /**
  *
- * @author heert--May2020
+ * @author heert
  */
 public class Student {
     
