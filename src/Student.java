@@ -6,11 +6,12 @@
 
 /**
  *
- * @author heert
+ * @author heert--May2020
  */
 public class Student {
     
     private String name;
+   
 
     public Student(String name) {
         this.name = name;
